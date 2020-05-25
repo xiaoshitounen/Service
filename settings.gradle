@@ -1,0 +1,5 @@
+rootProject.name='05_24_Service'
+include ':app'
+include ':service_local'
+include ':service_connection'
+include ':service_forground'
